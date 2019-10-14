@@ -305,12 +305,12 @@ please preview your site before committing, and make sure to run
     <div class="tab-content">
       <article role="tabpanel" class="tab-pane active" id="git-windows">
         <p>
-          <a href="https://desktop.github.com/">GitHub Desktop for Windows can be downloaded directly from the GitHub site. Detailed installation instructions can be found <a href="https://help.github.com/en/desktop/getting-started-with-github-desktop/installing-github-desktop">here</a>.
+          <a href="https://desktop.github.com/">GitHub Desktop</a> for Windows can be downloaded directly from the GitHub site. Detailed installation instructions can be found <a href="https://help.github.com/en/desktop/getting-started-with-github-desktop/installing-github-desktop">here</a>.
         </p>
       </article>
       <article role="tabpanel" class="tab-pane active" id="git-macos">
         <p>
-          <a href="https://desktop.github.com/">GitHub Desktop for Mac can be downloaded directly from the GitHub site. Detailed installation instructions can be found <a href="https://help.github.com/en/desktop/getting-started-with-github-desktop/installing-github-desktop">here</a>.
+          <a href="https://desktop.github.com/">GitHub Desktop</a> for Mac can be downloaded directly from the GitHub site. Detailed installation instructions can be found <a href="https://help.github.com/en/desktop/getting-started-with-github-desktop/installing-github-desktop">here</a>.
         </p>
       </article>
     </div>
