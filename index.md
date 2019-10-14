@@ -300,7 +300,6 @@ please preview your site before committing, and make sure to run
     <ul class="nav nav-tabs nav-justified" role="tablist">
       <li role="presentation" class="active"><a data-os="windows" href="#git-windows" aria-controls="Windows" role="tab" data-toggle="tab">Windows</a></li>
       <li role="presentation"><a data-os="macos" href="#git-macos" aria-controls="MacOS" role="tab" data-toggle="tab">MacOS</a></li>
-      <li role="presentation"><a data-os="linux" href="#git-linux" aria-controls="Linux" role="tab" data-toggle="tab">Linux</a></li>
     </ul>
 
     <div class="tab-content">
@@ -336,7 +335,6 @@ please preview your site before committing, and make sure to run
     <ul class="nav nav-tabs nav-justified" role="tablist">
       <li role="presentation" class="active"><a data-os="windows" href="#editor-windows" aria-controls="Windows" role="tab" data-toggle="tab">Windows</a></li>
       <li role="presentation"><a data-os="macos" href="#editor-macos" aria-controls="MacOS" role="tab" data-toggle="tab">MacOS</a></li>
-      <li role="presentation"><a data-os="linux" href="#editor-linux" aria-controls="Linux" role="tab" data-toggle="tab">Linux</a></li>
     </ul>
 
     <div class="tab-content">
@@ -367,18 +365,6 @@ please preview your site before committing, and make sure to run
           <a href="https://www.sublimetext.com/">Sublime Text</a>.
         </p>
       </article>
-      <article role="tabpanel" class="tab-pane active" id="editor-linux">
-        <p>
-          nano is a basic editor and the default that instructors use in the workshop.
-          It should be pre-installed.
-        </p>
-        <p>
-          Others editors that you can use are
-          <a href="https://wiki.gnome.org/Apps/Gedit">Gedit</a>,
-          <a href="https://kate-editor.org/">Kate</a> or
-          <a href="https://www.sublimetext.com/">Sublime Text</a>.
-        </p>
-      </article>
     </div>
   </div>
 </div> {% comment %} End of 'editor' section. {% endcomment %}
@@ -395,7 +381,6 @@ please preview your site before committing, and make sure to run
     <ul class="nav nav-tabs nav-justified" role="tablist">
       <li role="presentation" class="active"><a data-os="windows" href="#openrefine-windows" aria-controls="Windows" role="tab" data-toggle="tab">Windows</a></li>
       <li role="presentation"><a data-os="macos" href="#openrefine-macos" aria-controls="MacOS" role="tab" data-toggle="tab">MacOS</a></li>
-      <li role="presentation"><a data-os="linux" href="#openrefine-linux" aria-controls="Linux" role="tab" data-toggle="tab">Linux</a></li>
     </ul>
 
     <div class="tab-content">
@@ -420,15 +405,6 @@ please preview your site before committing, and make sure to run
         <p>Go to your newly created OpenRefine directory.</p>
         <p>Launch OpenRefine by dragging the icon into the Applications folder.</p>
         <p>Use <code>Ctrl-click/Open ... </code> to launch it.</p>
-        <p>If you are using a different browser, or if OpenRefine does not automatically open for you, point your browser at <a href="http://127.0.0.1:3333/">http://127.0.0.1:3333/</a> or <a href="http://localhost:3333">http://localhost:3333</a> to use the program.</p>
-      </article>
-      <article role="tabpanel" class="tab-pane active" id="openrefine-linux">
-        <p>Check that you have either the Firefox or the Chrome browser installed and set as your default browser. <strong>OpenRefine runs in your default browser.</strong></p>
-        <p>Download software from <a href="http://openrefine.org/">http://openrefine.org/</a>.</p>
-        <p>Make a directory called OpenRefine.</p>
-        <p>Unzip the downloaded file into the OpenRefine directory.</p>
-        <p>Go to your newly created OpenRefine directory.</p>
-        <p>Launch OpenRefine by entering <code>./refine</code> into the terminal within the OpenRefine directory.</p>
         <p>If you are using a different browser, or if OpenRefine does not automatically open for you, point your browser at <a href="http://127.0.0.1:3333/">http://127.0.0.1:3333/</a> or <a href="http://localhost:3333">http://localhost:3333</a> to use the program.</p>
       </article>
     </div>
