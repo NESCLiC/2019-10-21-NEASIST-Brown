@@ -114,7 +114,7 @@ Modify the block below if there are any special requirements.
 {% endcomment %}
 <p id="requirements">
   <strong>Requirements:</strong> Participants must bring a laptop with a
-  Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed <a href="#setup">below</a>).
+  Mac or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed <a href="#setup">below</a>).
 </p>
 
 {% comment%}
@@ -277,18 +277,18 @@ please preview your site before committing, and make sure to run
 
 <div id="git"> {% comment %} Start of 'Git' section. GitHub browser compatibility
   is given at https://help.github.com/articles/supported-browsers/{% endcomment %}
-  <h3>Git</h3>
+  <h3>GitHub Desktop</h3>
   <p>
-    Git is a version control system that lets you track who made changes
+    GitHub Desktop is a version control system that lets you track who made changes
     to what when and has options for easily updating a shared or public
     version of your code
     on <a href="https://github.com/">github.com</a>. You will need a
     <a href="https://help.github.com/articles/supported-browsers/">supported
-    web browser</a>.
+    web browser</a>. 
   </p>
   <p>
     You will need an account at <a href="https://github.com/">github.com</a>
-    for parts of the Git lesson. Basic GitHub accounts are free. We encourage
+    for parts of the GitHub Desktop lesson. Basic GitHub accounts are free. We encourage
     you to create a GitHub account if you don't have one already.
     Please consider what personal information you'd like to reveal. For
     example, you may want to review these
@@ -306,32 +306,12 @@ please preview your site before committing, and make sure to run
     <div class="tab-content">
       <article role="tabpanel" class="tab-pane active" id="git-windows">
         <p>
-          Git should be installed on your computer as part of your Bash
-          install (described above).
+          <a href="https://desktop.github.com/">GitHub Desktop for Windows can be downloaded directly from the GitHub site. Detailed installation instructions can be found <a href="https://help.github.com/en/desktop/getting-started-with-github-desktop/installing-github-desktop">here</a>.
         </p>
       </article>
       <article role="tabpanel" class="tab-pane active" id="git-macos">
-        <a href="https://www.youtube.com/watch?v=9LQhwETCdwY ">Video Tutorial</a>
         <p>
-          <strong>For OS X 10.9 and higher</strong>, install Git for Mac
-          by downloading and running the most recent "mavericks" installer from
-          <a href="http://sourceforge.net/projects/git-osx-installer/files/">this list</a>.
-          Because this installer is not signed by the developer, you may have to
-          right click (control click) on the .pkg file, click Open, and click
-          Open on the pop up window. 
-          After installing Git, there will not be anything in your <code>/Applications</code> folder,
-          as Git is a command line program.
-          <strong>For older versions of OS X (10.5-10.8)</strong> use the
-          most recent available installer labelled "snow-leopard"
-          <a href="http://sourceforge.net/projects/git-osx-installer/files/">available here</a>.
-        </p>
-      </article>
-      <article role="tabpanel" class="tab-pane active" id="git-linux">
-        <p>
-          If Git is not already available on your machine you can try to
-          install it via your distro's package manager. For Debian/Ubuntu run
-          <code>sudo apt-get install git</code> and for Fedora run
-          <code>sudo dnf install git</code>.
+          <a href="https://desktop.github.com/">GitHub Desktop for Mac can be downloaded directly from the GitHub site. Detailed installation instructions can be found <a href="https://help.github.com/en/desktop/getting-started-with-github-desktop/installing-github-desktop">here</a>.
         </p>
       </article>
     </div>
